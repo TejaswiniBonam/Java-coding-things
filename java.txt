@@ -1,0 +1,50 @@
+1. When you compare string in java use .equals() or equalsIgnoreCase() don't use '==' because '==' compares references not values
+	if(s=="HI")-----❌
+	if(s.equals("HI"))-------✅
+	BUT IF U R COMPARING CHARACTER THE OK
+	if(s.charAt(i)=='a') -------✅
+ ❤️ For strings S.charAt(i) ✅ not s[i]❌
+
+2. Java method to find length of string: 
+	str1.length();
+
+3. to concatenate 2 strings in java : 
+	String a = b+c;
+
+4. To sort strings :
+	 char tempArray[] = inputString.toCharArray();
+        // Sorting temp array using
+        Arrays.sort(tempArray);
+
+5. To convert char arrays to string:
+	a. Arrays.toString(arr_name);
+	b. String s = new String(arr_name);
+
+6. If you want to slice a string in java use " substring()" method.
+		str1.substring(i) ---> from i to end
+		str1.substring(i, j)----> from i to j-1
+7. String.valueOf() converts any non string obj to String
+8. ❤️ to get Int max and min values
+	int a = Integer.MAX_VALUE;
+	int b = INteger.MIN_VALUE;
+	//from Integer class in java.lang package
+9. ❤️ java.lang package
+	 Math.max(2, 3);
+	Math.min(3, 4);
+	Math.abs(-3);
+10. ❤️ In C we can write while(t--) cuz 0 is false and all nums are True IN C
+	In Java we can't so write while(t-->0)
+11. ❤️ In Java Use Math.log() but Use Only Double Data type
+12. ❤️ Type casting.... int k = (int) x;
+
+ ❤️  IF U R USING NEXTLINE() AFTER NEXTINT() etcc... use nextLine()
+	when we have integer in scanner... it's like 9\n... nextInt() takes only 9 and\n remains in scanner... so when I was supposed to input a string... nextLine() only takes until it encounter first\n... so clear the scanner before that.
+
+❤️  In default if i declare int a[] = new int[n]... initially all are zeroes itself. But if u want to fill array with other numbers
+	Arrays.fill(array_name,7);
+❤️ If u wanna take a character as input..
+	char c = sc.next().charAt(0);
+❤️ Get ascii using type casting
+	int x = (int)character;
+❤️ Arrays.sort() is in util package
+❤️ javac is in JDK not JRE, So just with JRE u can,t compile and run a code.
