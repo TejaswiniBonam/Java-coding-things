@@ -7,6 +7,10 @@ Java is a widely-used, versatile programming language known for its portability,
 - Gain a solid foundation in object-oriented programming concepts.
 - Access a vast ecosystem of libraries, frameworks, and tools.
 - Improve your career prospects, as Java is in high demand across many industries.
+- Portability with WORA
+- Security cuz it runs on virtual Machines
+
+
 
 
 ## What is a Programming Language?
@@ -40,3 +44,11 @@ A programming language is a set of instructions that allows people to communicat
 ## Does C++ Support "Write Once, Run Anywhere"?
 
 C++ does not fully support the "Write once, run anywhere" (WORA) philosophy like Java. While C++ code can be compiled for many platforms, it often requires modifications and recompilation for each target system due to differences in compilers, operating systems, and hardware. Java, on the other hand, uses the Java Virtual Machine (JVM) to run the same compiled bytecode on any platform with a compatible JVM, making true WORA possible.
+
+
+
+
+* Byte code is not 0/1.. source code is human code.. use of byte code? let say if u want to give the algo to someone and thay must not copy your code send byte code..
+* bytecode isn't readable
+
+
