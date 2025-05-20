@@ -31,12 +31,12 @@ A programming language is a set of instructions that allows people to communicat
 
 # History of Java
 * **James Gosling**
-* company - sum Micro systems
+* company - sun Micro systems
 * Java was created in 1995.
 * Originally called "Oak," it was renamed to Java.
 * Designed to have as few implementation dependencies as possible.
 * Its main goal was to allow developers to **"write once, run anywhere" (WORA)**.
-        * Generally compilers convert high level to low level.. But In java compiler converts high level to intermediatary(**byte codr or object code**).. and then JVM does the intermediate to low level.
+        * Generally compilers convert high level to low level.. But In java compiler converts high level to intermediatary(**byte code or object code**).. and then JVM does the intermediate to low level.
 * Java quickly became popular for web and enterprise applications.
 * In 2010, Oracle Corporation acquired Sun Microsystems and took over Java development.
 
@@ -49,6 +49,7 @@ C++ does not fully support the "Write once, run anywhere" (WORA) philosophy like
 
 
 * Byte code is not 0/1.. source code is human code.. use of byte code? let say if u want to give the algo to someone and thay must not copy your code send byte code..
-* bytecode isn't readable
+* bytecode isn't readable.
+
 
 
