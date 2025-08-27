@@ -53,3 +53,11 @@ C++ does not fully support the "Write once, run anywhere" (WORA) philosophy like
 
 
 
+# numbers
+## numeric conversions
+* **Implicit conversions** - int to double - no data loss
+* **Explicit conversions** - double to int - data MAY lose
+* 
+
+
+
