@@ -51,3 +51,6 @@
 
 
 ❤️ 	System.out.println((a-c) + ' ' + (b-d));  AND 	System.out.println((a-c) + " " + (b-d)); ARE DIFFERENT
+
+
+❤️ WHat should be the output for Math.ceil(25/4)
