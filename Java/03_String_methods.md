@@ -1,6 +1,17 @@
+# Strings
+- Collection of strings placed in `Double qoutes`
+
+
 * `charAt()` -
 * `contains()` -
-* `indexOf()`
+* `indexOf()` -
+* 
+
+```java
+    String str1 = "Hello";
+    
+
+```
 
 
 
