@@ -5,6 +5,9 @@
 * `charAt()` -
 * `contains()` -
 * `indexOf()` -
+* `compareTo()`-
+* `toString()` -
+* `valueOf()` -
 * 
 
 ```java
