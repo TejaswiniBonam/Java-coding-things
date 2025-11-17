@@ -61,5 +61,6 @@
 ❤️ we can declare a variable and an array of same type in one line like `int t, a[];`
 ❤️ WHAT IS System.out.printf(); like `	System.out.printf("%.2f", z);`
 ❤️ BufferedReader, InputStreamReader,StringTokenizer
+❤️ If you wanna use a method of a class, you have to call it after creating an object of that class OR make the method static and simply call it.. if the method is from other class and it is static you can call it with `className.method()`
 
 
