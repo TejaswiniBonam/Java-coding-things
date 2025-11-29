@@ -14,4 +14,4 @@ https://www.youtube.com/@CompleteCodingByPrashantSir
 * print and println()
 * sc.nextInt() - sc.nextLine() = order what happens
 * Type casting
-* 
+* know more about printf(), "%02d"
