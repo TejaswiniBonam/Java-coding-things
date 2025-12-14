@@ -36,3 +36,10 @@ graph TD
     F --> G[Program Output]
 ```
 
+
+# how to take input
+* Using `Scanner` class from `java.util` package 
+* `Scanner sc = new Scanner(System.in);`
+* `sc.nextInt(), sc.nextDouble(), nextFloat(), nextBoolean(), nextByte(), nextLong(), nextShort() for diff data types`
+* `sc.next()` to take a TOKEN (until it trigegrs a white space)
+* `sc.nextLine()` - to take a line string (till it gets \n.
